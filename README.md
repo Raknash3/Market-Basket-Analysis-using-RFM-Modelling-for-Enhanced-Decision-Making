@@ -27,4 +27,8 @@ This repository contains a comprehensive retail analytics project focused on und
     yellowbricks,
     statsmodel
 - After installing the required libraries, run all the cells for results
+
+# Project demo:
+
+Link:  https://drive.google.com/file/d/10I2720R2j_l80DaLpT8ufadt4AlQarx_/view
   
