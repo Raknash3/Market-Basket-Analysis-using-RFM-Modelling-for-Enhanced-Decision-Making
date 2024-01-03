@@ -11,3 +11,20 @@ This repository contains a comprehensive retail analytics project focused on und
 - Time Series Forecasting with ARIMA: Predict future sales trends by analyzing historical data. The ARIMA model provides insights into temporal aspects of sales, allowing for accurate predictions.
 
 - Exploratory Data Analysis (EDA): Visualize and analyze sales trends, price sensitivity, and product-specific patterns for actionable insights.
+
+# How to run the code:
+
+- Clone the repository to your local machine.
+- The input files has to be in the content folder and the code has to be in the same directory as content folder.
+- Install the following libraries using pip or conda
+-- pandas
+  numpy
+  matplotlib
+  seaborn
+  mlxtend
+  sklearn
+  scipy
+  yellowbricks
+  statsmodel
+- After installing the required libraries, run all the cells for results
+  
