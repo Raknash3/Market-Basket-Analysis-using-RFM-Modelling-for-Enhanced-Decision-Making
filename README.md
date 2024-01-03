@@ -16,15 +16,15 @@ This repository contains a comprehensive retail analytics project focused on und
 
 - Clone the repository to your local machine.
 - The input files has to be in the content folder and the code has to be in the same directory as content folder.
-- Install the following libraries using pip or conda
-    pandas
-    numpy
-    matplotlib
-    seaborn
-    mlxtend
-    sklearn
-    scipy
-    yellowbricks
+- Install the following libraries using pip or conda :
+    pandas,
+    numpy,
+    matplotlib,
+    seaborn,
+    mlxtend,
+    sklearn,
+    scipy,
+    yellowbricks,
     statsmodel
 - After installing the required libraries, run all the cells for results
   
